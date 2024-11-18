@@ -6,14 +6,14 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "Kurt"
-  description = "Embrace who you are, and go with the flow🔹"
-  github = "kurt-liao"
-  enableGithubFollowers = true # Set to true to show your real github followers(params.github is required)
-  twitter = "cn91288"
-  linkedin = "kurt-liao-07360b17b"
-  email = "vermouth0226@gmail.com"
-  stackoverflow="10389571"
+  author = "K M Rejowan Ahmmed"
+  description = "Seeking Simplicity in Complexity"
+  github = "ahmmedrejowan"
+  enableGithubFollowers = true
+  twitter = "ahmmedrejowan"
+  linkedin = "ahmmedrejowan"
+  email = "kmrejowan@gmail.com"
+  stackoverflow="9932194"
   lastmod = true
   userStatusEmoji = "😉"
   favicon = "/images/avatar.png"

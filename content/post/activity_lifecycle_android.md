@@ -16,7 +16,6 @@ destruction. By understanding this lifecycle, developers can effectively manage 
 user interactions, and ensure a seamless user experience. In this blog post, we will dive deep into
 the Android activity lifecycle, exploring each state and its significance.
 
-
 ## What is Activity Lifecycle?
 
 The activity lifecycle consists of various states that an activity transitions through during its
