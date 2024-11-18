@@ -4,6 +4,7 @@ title = "Kurt Liao"
 theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+lastmod = true
 
 [params]
   author = "Kurt"
