@@ -38,18 +38,18 @@ pygmentsUseClasses = true
     createIssueManually = true # 設置為true，如果是管理員登錄，會自動創建issue，如果是false，需要管理員手動添加第一個評論(issue)
     distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
     proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
-  [[params.links]]
-    title = "Link"
-    href = "https://github.com/kurt-liao"
-  [[params.links]]
-    title = "Link2"
-    href = "https://github.com/kurt-liao/github-style-plus"
-    icon = "https://blog.kurtstories.com/images/avatar.png"
-
-  [[params.customOrgs]]
-    link = "https://github.com/kurt-project"
-    img = "kurt-project.png" #Put your assets in static folder
-    name = "kurt-project"
+#  [[params.links]]
+#    title = "Link"
+#    href = "https://github.com/kurt-liao"
+#  [[params.links]]
+#    title = "Link2"
+#    href = "https://github.com/kurt-liao/github-style-plus"
+#    icon = "https://blog.kurtstories.com/images/avatar.png"
+#
+#  [[params.customOrgs]]
+#    link = "https://github.com/kurt-project"
+#    img = "kurt-project.png" #Put your assets in static folder
+#    name = "kurt-project"
 
 lastmod = true
 
