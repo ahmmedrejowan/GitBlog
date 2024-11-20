@@ -15,30 +15,13 @@ pygmentsUseClasses = true
     email = "kmrejowan@gmail.com"
     stackoverflow="9932194"
     lastmod = true
-    userStatusEmoji = "😉"
+    userStatusEmoji = "☠️"
     favicon = "/images/avatar.png"
     avatar = "/images/avatar.png"
     location = "Dhaka, Bangladesh"
-    enableGitalk = true
+    enableGitalk = false
     rss = true
     enableLocalSearch = true
     sponsorLink = "https://www.linkedin.com/in/ahmmedrejowan/"
-    customStyleFile = "your css file name"
-    gtmId = "your gtm id"
-
-#    [[params.links]]
-#        title = "GitHub"
-#        href = "https://github.com/ahmmedrejowan"
-#
-#    [[params.links]]
-#        title = "LinkedIn"
-#        href = "https://www.linkedin.com/in/ahmmedrejowan/"
-#
-#    [[params.links]]
-#        title = "Twitter"
-#        href = "https://twitter.com/ahmmedrejowan"
-#
-#    [[params.links]]
-#        title = "Stack Overflow"
-#        href = "https://stackoverflow.com/users/9932194/"
-
+#    customStyleFile = "your css file name"
+#    gtmId = "your gtm id"
