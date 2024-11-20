@@ -4,11 +4,11 @@ date = 2024-11-18T22:47:05+06:00
 author = "K M Rejowan Ahmmed"
 pin = true
 keywords = ["Android", "Android Lifecycle", "Activity Lifecycle"]
-cover = "/images/cover.jpg"
+cover = "cover.jpg"
 summary = "The Android activity lifecycle manages the states an activity goes through, from creation to destruction, enabling efficient resource management and seamless user experience."
 +++
 
-![cover](/images/cover.jpg)
+![cover](cover.jpg)
 
 
 ## Introduction
