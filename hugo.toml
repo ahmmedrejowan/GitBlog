@@ -1,4 +1,4 @@
-baseURL = 'https://rejowan.com/GitBlog'
+baseURL = 'https://blog.rejowan.com'
 languageCode = 'en-us'
 title = 'K M Rejowan Ahmmed'
 theme = 'github-style-plus'
