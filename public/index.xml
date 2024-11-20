@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K M Rejowan Ahmmed</title>
-    <link>http://localhost:1313/GitBlog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on K M Rejowan Ahmmed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 23:00:13 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/GitBlog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/GitBlog/readme/</link>
+      <link>http://localhost:1313/readme/</link>
       <pubDate>Mon, 18 Nov 2024 23:00:13 +0600</pubDate>
-      <guid>http://localhost:1313/GitBlog/readme/</guid>
+      <guid>http://localhost:1313/readme/</guid>
       <description>&lt;h2 id=&#34;k-m-rejowan&#34;&gt;K M Rejowan&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Android Activity Lifecycle: A Comprehensive Guide</title>
-      <link>http://localhost:1313/GitBlog/post/activity_lifecycle_android/</link>
+      <link>http://localhost:1313/post/activity_lifecycle_android/</link>
       <pubDate>Mon, 18 Nov 2024 22:47:05 +0600</pubDate>
-      <guid>http://localhost:1313/GitBlog/post/activity_lifecycle_android/</guid>
+      <guid>http://localhost:1313/post/activity_lifecycle_android/</guid>
       <description>The Android activity lifecycle manages the states an activity goes through, from creation to destruction, enabling efficient resource management and seamless user experience.</description>
     </item>
     <item>
       <title>Testing_first_post</title>
-      <link>http://localhost:1313/GitBlog/post/testing_first_post/</link>
+      <link>http://localhost:1313/post/testing_first_post/</link>
       <pubDate>Mon, 18 Nov 2024 22:34:56 +0600</pubDate>
-      <guid>http://localhost:1313/GitBlog/post/testing_first_post/</guid>
+      <guid>http://localhost:1313/post/testing_first_post/</guid>
       <description>This is a test post</description>
     </item>
   </channel>
