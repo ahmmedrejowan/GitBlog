@@ -7,6 +7,8 @@ cover = ""
 summary = ""
 +++
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=24&pause=500&color=8062D6&width=450&lines=Seeking+Simplicity+in+Complexity;Building+today+with+a+vision+for+tomorrow)](https://git.io/typing-svg)
+
 ``` Kotlin
 package com.rejowan
 
