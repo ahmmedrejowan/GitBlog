@@ -40,7 +40,8 @@ This is introduced with Google Material Library (_com.google.android.material_).
 ------------------------------------------------------------------------------------------------
 
 **CardView**
-```XML
+
+```xml
     <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -59,7 +60,8 @@ This is introduced with Google Material Library (_com.google.android.material_).
 ```
 
 **MaterialCardView**
-```XML
+
+```xml
       <com.google.android.material.card.MaterialCardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -95,23 +97,28 @@ Shots
 
 **CardView**
 
-![](file:///C:/Users/Rejowan/Dropbox/Publii Sites/blog-by-rejowan/input/media/posts/7/image-1.png)
+![cardview](cardview.jpg)
 
 **MaterialCardview**
 
-![](file:///C:/Users/Rejowan/Dropbox/Publii Sites/blog-by-rejowan/input/media/posts/7/image-2.png)
+![material cardview](material_cardview.jpg)
 
 [](https://dev.to/ahmmedrejowan/cardview-vs-materialcardview-1epn/edit#details)Details
 --------------------------------------------------------------------------------------
 
-*   *   [CardView docs](https://developer.android.com/reference/androidx/cardview/widget/CardView)
+*   [CardView docs](https://developer.android.com/reference/androidx/cardview/widget/CardView)
 
-*   *   [MaterialCardView docs](https://developer.android.com/reference/com/google/android/material/card/MaterialCardView)
+*   [MaterialCardView docs](https://developer.android.com/reference/com/google/android/material/card/MaterialCardView)
 
-*   *   [MaterialCardView on material.io](https://m2.material.io/develop/android/components/cards/)
+*   [MaterialCardView on material.io](https://m2.material.io/develop/android/components/cards/)
+
+
+## Find me on - 
+* [Github](https://github.com/ahmmedrejowan)
+* [LinkedIn](https://www.linkedin.com/in/ahmmedrejowan/)
+
+---
 
 Thanks for reading. Have a good day.
 
-Find me on - [Github](https://github.com/ahmmedrejowan), [Facebook](https://www.facebook.com/ahmmedrejowan)
 
-More- [CuteLibs Projects](https://github.com/CuteLibs), [CuteDialog](https://github.com/CuteLibs/CuteDialog)
