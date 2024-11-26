@@ -1,6 +1,7 @@
 +++
 title = "Android Activity Lifecycle: A Comprehensive Guide"
 date = 2024-11-18T22:47:05+06:00
+lastmod = 2024-11-26T23:51:05+06:00
 author = "K M Rejowan Ahmmed"
 pin = true
 tags = ["Android", "Lifecycle"]
