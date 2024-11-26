@@ -92,11 +92,11 @@ This is introduced with Google Material Library (`com.google.android.material`).
 
 **CardView**
 
-![cardview](cardview.jpg)
+![cardview](cardview.png)
 
 **MaterialCardview**
 
-![material cardview](material_cardview.jpg)
+![material cardview](material_cardview.png)
 
 ## Details
 
